@@ -25,7 +25,7 @@
     </nav>
 
     <section id="home">
-    <h2>Welkom op Mijn Website!</h2>
+    <h2>Welkom op mijn website!</h2>
         <p>Hallo daar! Mijn naam is Milan, en ik heet je welkom op mijn digitale thuisbasis!</p>
 
         <p>Deze website is mijn mooie stage opdracht. Ik ben gefascineerd door de wereld van code en design, en hier kun je ontdekken wat mij inspireert en motiveert in mijn reis door de digitale ruimte.</p>
