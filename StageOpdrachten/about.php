@@ -26,7 +26,7 @@
 
     <section id="about">
         <h2>Over Mij</h2>
-        <p>Ik ben <?php echo "Milan"; ?>, een enthousiaste Software Developer en momenteel student aan de <?php echo "Da Vinci College"; ?>. Mijn passie ligt in het creëren van boeiende en gebruiksvriendelijke webapplicaties.</p>
+        <p>Ik ben <?php echo "Milan"; ?>, 18 jaar oud, Ik ben een enthousiaste Software Developer en momenteel student aan de <?php echo "Da Vinci College"; ?>. Mijn passie ligt in het creëren van boeiende en gebruiksvriendelijke webapplicaties.</p>
 
     </section>
 
