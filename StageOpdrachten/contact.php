@@ -60,7 +60,7 @@
     <p>99067157@mydavinci.nl of bel me: 0612345678</p>
 </section>
     <footer>
-        <p>&copy; <?php echo date("Y"); ?> Milan. Alle rechten voorbehouden.</p>
+        <p>&copy; <?php echo date("Y"); ?> Milan Sebes. Alle rechten voorbehouden.</p>
     </footer>
 
 </body>

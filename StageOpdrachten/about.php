@@ -31,7 +31,7 @@
     </section>
 
     <section id="education">
-        <h2>Opleiding</h2>
+        <h2>Opleidingen</h2>
         <p>VMBO GL: 2017 - 2022</p>
         <p>MBO Niv 4: 2022 - 2026</p>
         <p> Hopelijk nog HBO Game Developer (Als dat zou lukken)</p>
@@ -43,7 +43,7 @@
     </section>
 
     <footer>
-        <p>&copy; <?php echo date("Y"); ?> Jouw Naam. Alle rechten voorbehouden.</p>
+        <p>&copy; <?php echo date("Y"); ?> Milan Sebes. Alle rechten voorbehouden.</p>
     </footer>
 
 </body>

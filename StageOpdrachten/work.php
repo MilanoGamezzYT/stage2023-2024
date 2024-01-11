@@ -26,7 +26,7 @@
 
     <section id="work">
         <h2>Mijn Werk</h2>
-        <p>Horeca: 2021 - Heden</p>
+        <p>Horeca: 2022 - Heden</p>
 
 
         <img src="images/work.png" alt="Aan het werk" width="250" height="400">

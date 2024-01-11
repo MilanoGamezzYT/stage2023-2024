@@ -30,7 +30,7 @@
 
         <p>Deze website is mijn mooie stage opdracht. Ik ben gefascineerd door de wereld van code en design, en hier kun je ontdekken wat mij inspireert en motiveert in mijn reis door de digitale ruimte.</p>
 
-        <p>Op de verschillende pagina's vind je inzichten over mijn vaardigheden, projecten waar ik aan heb gewerkt, en zelfs een kijkje in mijn persoonlijke interesses en hobby's. Of je nu een mede-webontwikkelaar bent, een potentiële werkgever, of gewoon een nieuwsgierige bezoeker, ik hoop dat je hier iets interessants ontdekt!</p>
+        <p>Op de verschillende pagina's vind je inzichten over mijn vaardigheden, projecten waar ik aan heb gewerkt, en zelfs een kijkje in mijn persoonlijke interesses en hobby's. Of je nu een mede-Software ontwikkelaar bent, een potentiële werkgever, of gewoon een nieuwsgierige bezoeker, ik hoop dat je hier iets interessants ontdekt!</p>
 
         <p>Neem de tijd om rond te kijken, en als je vragen hebt of gewoon hallo wilt zeggen, aarzel dan niet om contact met me op te nemen via het contactformulier. Veel plezier!</p>
 
